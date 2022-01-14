@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MainSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: e551ba077e8a19141a18467d3bf93996, type: 3}
+    - {fileID: 2800000, guid: 76692b579eb85b94a84a9a139e8231ec, type: 3}
+    - {fileID: 102900000, guid: 9c873c8c86c75a1488bf98949de9c54c, type: 3}
+    - {fileID: 2800000, guid: 111d6ad0100b30a409730acbc80f96fb, type: 3}
+    - {fileID: 2800000, guid: d3400777b23b54143a1b71d432f5791c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 01f2715068a32f44a99ba474fbf74cdf, type: 3}
+  - {fileID: 21300000, guid: 111d6ad0100b30a409730acbc80f96fb, type: 3}
+  - {fileID: 21300000, guid: 49b76ee0d3655ee4c8402582c1c02c93, type: 3}
+  - {fileID: 21300000, guid: 829702d123e43a54c80bc02a11288a82, type: 3}
+  - {fileID: 21300000, guid: 7471dc94b1670e54b8f926859686caa1, type: 3}
+  - {fileID: 21300000, guid: 4188406557eaca0488459eba94278250, type: 3}
+  - {fileID: 21300000, guid: 284a590648cd2624cbd085c4f1627465, type: 3}
+  - {fileID: 21300000, guid: 08e82f56b6f8f9e4da39977182df7f39, type: 3}
+  - {fileID: 21300000, guid: 6ffad87630735e04d83408305dcc75b5, type: 3}
+  - {fileID: 21300000, guid: bfdb508608e20c14a84a06ee5d00795b, type: 3}
+  - {fileID: 21300000, guid: e551ba077e8a19141a18467d3bf93996, type: 3}
+  - {fileID: 21300000, guid: 76692b579eb85b94a84a9a139e8231ec, type: 3}
+  - {fileID: 21300000, guid: d3400777b23b54143a1b71d432f5791c, type: 3}
+  - {fileID: 21300000, guid: 39bf764a4d5181d4ea6477506162098e, type: 3}
+  - {fileID: 21300000, guid: 93932efaf072000449ce4c111911cfe3, type: 3}
+  - {fileID: 21300000, guid: 01139edbf108bde4aa26ebc3d05c3025, type: 3}
+  - {fileID: 21300000, guid: 27f6b32c91a50ae4088361bfd738dd14, type: 3}
+  - {fileID: 21300000, guid: c925826c0552cf549a3f1123cae8db5b, type: 3}
+  - {fileID: 21300000, guid: 5ed5157cf45e6ee409511594fb89377b, type: 3}
+  - {fileID: 21300000, guid: 3071611f52f355941ae108e3822562d3, type: 3}
+  - {fileID: 21300000, guid: 570f426f740c2c5499e2f9670c12598a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - image 3
+  - Mac 128
+  - image 2
+  - image 4
+  - image 14
+  - image 13
+  - image 1
+  - image 11
+  - image 12
+  - image 10
+  - lollipop
+  - Sky
+  - Grass
+  - image 8
+  - image 5
+  - image 7
+  - image 15
+  - image 6
+  - Coin
+  - image 9
+  - image 16
+  m_RenderDataMap: {}
+  m_Tag: MainSpriteAtlas
+  m_IsVariant: 0
